@@ -46,10 +46,8 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunnylpu&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunnylpu&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
-
----
 
 ## 📊 GitHub Analytics  
 
