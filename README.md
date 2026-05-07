@@ -1,12 +1,12 @@
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sunny+Tyagi+👋;Full+Stack+Developer+💻;MERN+Stack+Expert+🚀;AI+Engineer+🤖;Hackathon+Builder+🔥;Future+SDE+@+Top+Company+💯" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sunny+Tyagi+👋;Full+Stack+Developer+💻;MERN+Stack+Expert+🚀;🤖;Hackathon+Builder+🔥;Future+SDE+@+Top+Company+💯" />
 </p>
 
 ---
 
 <h1 align="center">🚀 Sunny Tyagi</h1>
-<h3 align="center">Full Stack Developer | MERN | AI Engineer</h3>
+<h3 align="center">Full Stack Developer | MERN | </h3>
 
 ---
 
